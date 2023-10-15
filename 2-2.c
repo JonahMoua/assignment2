@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//add comments
 unsigned int extract(unsigned int x, int i) {
     // we calculate the shift amount. i << 3 is equivalent to i * 8
     unsigned int shift = i << 3;
